@@ -1,4 +1,5 @@
-# Flight club is a flight deals scanner using Tequila API to search for flights
+# Flight club
+A flight deals scanner using Tequila API to search for flights
 
 ### Destinations and threshold prices are managed by Sheety
 
